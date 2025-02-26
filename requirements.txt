@@ -1,0 +1,10 @@
+tensorflow==2.8.*
+tf-nightly
+opencv-python==4.*
+opencv-contrib-python==4.*
+streamlit
+Pillow==6.2.1
+matplotlib
+numpy
+Flask
+gevent
