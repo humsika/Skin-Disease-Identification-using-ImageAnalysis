@@ -9,6 +9,7 @@ Identification of skin diseases is done using image analysis and Convolutional N
 ## 📊 Data
 
 The dataset used for this project is Skin Cancer ISIC, which can be found at the following link:
+
 Skin Cancer ISIC Dataset - https://www.kaggle.com/datasets/nodoubttome/skin-cancer9-classesisic
 
 ## 🛠 Technologies Used
@@ -26,17 +27,17 @@ Skin Cancer ISIC Dataset - https://www.kaggle.com/datasets/nodoubttome/skin-canc
 
 ## 🚀 How to Run the Project
 
-## 1. Clone the repository:
+**1. Clone the repository:**
 
 git clone https://github.com/yourusername/skin-disease-detection.git
 
 cd skin-disease-detection
 
-## 2. Install dependencies:
+**2. Install dependencies:**
 
 pip install -r requirements.txt
 
-## 3. Run the Flask application:
+**3. Run the Flask application:**
 
 python app.py
 
