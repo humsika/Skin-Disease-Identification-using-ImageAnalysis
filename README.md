@@ -8,11 +8,12 @@ Identification of skin diseases is done using image analysis and Convolutional N
 ## 📊 Data
 
 The dataset used for this project is Skin Cancer ISIC, which can be found at the following link:
-Skin Cancer ISIC Dataset
+Skin Cancer ISIC Dataset - https://www.kaggle.com/datasets/nodoubttome/skin-cancer9-classesisic
 
 ## 🛠 Technologies Used
 
 **Frontend**: HTML, CSS, JavaScript, Bootstrap
+
 **Backend**: Flask
 
 ## 📚 Python Libraries
