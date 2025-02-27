@@ -29,6 +29,7 @@ Skin Cancer ISIC Dataset - https://www.kaggle.com/datasets/nodoubttome/skin-canc
 ## 1. Clone the repository:
 
 git clone https://github.com/yourusername/skin-disease-detection.git
+
 cd skin-disease-detection
 
 ## 2. Install dependencies:
